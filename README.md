@@ -1,6 +1,3 @@
-# digital literacy project
-
-
 # Digital literacy project
 
 ## Student Details
